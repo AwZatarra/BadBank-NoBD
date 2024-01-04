@@ -37,7 +37,7 @@ Antes de empezar, necesitas tener [Git](https://git-scm.com) instalado.
 
 ```bash
 # Clonar el proyecto
-$ git clone https://github.com/AwZatarra/BadBank-NoBD
+$ git clone https://github.com/AwZatarra/BadBank-NoBD.git
 # Acceder al directorio
 $ cd badbank
 # En el directorio del proyecto, ejecutar:
