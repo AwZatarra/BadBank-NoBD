@@ -39,7 +39,7 @@ Antes de empezar, necesitas tener [Git](https://git-scm.com) instalado.
 # Clonar el proyecto
 $ git clone https://github.com/AwZatarra/BadBank-NoBD.git
 # Acceder al directorio
-$ cd badbank
+$ cd badbank-nobd
 # En el directorio del proyecto, ejecutar:
 $ npm i
 # Para iniciar la aplicación, ejecutar:
