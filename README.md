@@ -54,7 +54,7 @@ Este proyecto está bajo licencia del MIT. Para más detalles, consulte el archi
 
 ## :white_check_mark: Funciones ##
 
-Explición y demostración del proyecto [Video]([https://git-scm.com](https://www.loom.com/share/cec62e56a1604ead9be713f6b6ab552f?sid=d9d5fa56-f161-43f2-8a06-226d057aadac)https://www.loom.com/share/cec62e56a1604ead9be713f6b6ab552f?sid=d9d5fa56-f161-43f2-8a06-226d057aadac).
+Explición y demostración del proyecto [Video](https://www.loom.com/share/cec62e56a1604ead9be713f6b6ab552f?sid=d9d5fa56-f161-43f2-8a06-226d057aadac).
 
 
 Hecho por <a href="https://github.com/AwZatarra" target="_blank">Pool Rivera Molina</a>
