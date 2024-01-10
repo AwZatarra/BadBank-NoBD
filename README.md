@@ -7,7 +7,9 @@
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#toolbox-instalación">Instalación</a> &#xa0; | &#xa0;
   <a href="#briefcase-licencia">Licencia</a> &#xa0; | &#xa0;
+   <a href="#white_check_mark-funciones">Funciones</a> &#xa0; | &#xa0;
   <a href="https://github.com/AwZatarra" target="_blank">Autor</a>
+ 
 </p>
 
 <br>
@@ -49,6 +51,10 @@ $ npm start
 ## :briefcase:	 Licencia ##
 
 Este proyecto está bajo licencia del MIT. Para más detalles, consulte el archivo [LICENSE](LICENSE) file.
+
+## :white_check_mark: Funciones ##
+
+Explición y demostración del proyecto [Video]([https://git-scm.com](https://www.loom.com/share/cec62e56a1604ead9be713f6b6ab552f?sid=d9d5fa56-f161-43f2-8a06-226d057aadac)https://www.loom.com/share/cec62e56a1604ead9be713f6b6ab552f?sid=d9d5fa56-f161-43f2-8a06-226d057aadac).
 
 
 Hecho por <a href="https://github.com/AwZatarra" target="_blank">Pool Rivera Molina</a>
